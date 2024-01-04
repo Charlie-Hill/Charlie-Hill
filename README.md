@@ -21,8 +21,3 @@ I'm Charlie, a 25 year old full-stack software developer 👨‍💻. I also hav
 
 ## 📫 Contact
 Please feel free to message me via Twitter, LinkedIn or Instagram
-
------
-
-<br></br>
-*Last Edited on: 04/01/2024*
