@@ -21,5 +21,3 @@ I'm Charlie, a 25 year old full-stack software developer 👨‍💻. I also hav
 
 ## 📫 Contact
 Please feel free to message me via LinkedIn, Twitter (X) or Instagram.
-
- ![](https://komarev.com/ghpvc/?username=charlie-hill&color=brightgreen)
