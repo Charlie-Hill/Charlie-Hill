@@ -7,7 +7,7 @@
 I'm Charlie, a 25 year old full-stack software developer 👨‍💻. I also have interests in finance & economics. 
 
 - ⚡ Languages: PHP, Typescript, Python & more
-- 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, P5.js & more
+- 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
 - 🔭 I’m currently working on: https://londonmarket.xyz
 - 😄 🌈🏳‍🌈
 <!-- - 💬 Ask me about: tech, memes, anime -->
