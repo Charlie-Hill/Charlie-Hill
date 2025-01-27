@@ -1,10 +1,11 @@
 # 👨‍💻 Charlie Hill  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/charliehilluk/)](https://www.linkedin.com/in/charliehilluk/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realcharliehill/)
- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/charliehillreal)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@RealCharlie)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/charliehillreal)
 
 ## Hi 👋, 
-I'm Charlie, a 25 year old full-stack software developer 👨‍💻. I also have interests in finance & economics. 
+I'm Charlie, a 26 year old full-stack software developer 👨‍💻. I also have interests in finance & economics. 
 
 - ⚡ Languages: PHP, Typescript, Python & more
 - 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
