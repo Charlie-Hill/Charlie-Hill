@@ -11,7 +11,7 @@ I am currently employed developing & designing technical software for engineers.
 
 - ⚡ Languages: PHP, Typescript, Python & more
 - 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
-- 🔭 I’m currently working on: https://londonmarket.xyz
+- 🔭 In my spare time I’m currently working on: https://londonmarket.xyz
 <!-- - 💬 Ask me about: tech, memes, anime -->
 <!-- - 🌱 I’m currently learning:  -->
 <!-- - 👯 I’m looking to collaborate on:  -->
