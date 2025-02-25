@@ -5,12 +5,13 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/charliehillreal)
 
 ## Hi 👋, 
-I'm Charlie, a 26 year old full-stack software developer 👨‍💻. I also have interests in finance & economics. 
+I'm Charlie, a 26 year old full-stack software developer 👨‍💻. I also have interests in finance & economics.
+
+I am currently employed developing & designing technical software for engineers.
 
 - ⚡ Languages: PHP, Typescript, Python & more
 - 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
 - 🔭 I’m currently working on: https://londonmarket.xyz
-- 😄 🌈🏳‍🌈
 <!-- - 💬 Ask me about: tech, memes, anime -->
 <!-- - 🌱 I’m currently learning:  -->
 <!-- - 👯 I’m looking to collaborate on:  -->
