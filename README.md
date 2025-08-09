@@ -9,7 +9,7 @@ I'm Charlie, a 26 year old full-stack software developer 👨‍💻. I also hav
 
 I am currently employed as a Technical Account Manager & Software Developer responsible for direct client management alongside developing & designing technical software for engineers.
 
-- ⚡ Languages: PHP, Typescript, Python & more
+- ⚡ Languages: PHP, Typescript, GoLang, C#, Python & more
 - 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
 - 🔭 In my spare time I’m currently working on: https://londonmarket.xyz
 <!-- - 💬 Ask me about: tech, memes, anime -->
