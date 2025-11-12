@@ -7,7 +7,7 @@
 ## Hi 👋, 
 I'm Charlie, a full-stack software developer 👨‍💻. I also have interests in finance & economics.
 
-I am currently employed as a Technical Account Manager & Software Developer responsible for direct client management alongside developing & designing technical software for engineers.
+I am currently employed as a Technical Account Manager & Software Developer responsible for technical account management alongside developing & designing technical software for engineers.
 
 - ⚡ Languages: PHP, Typescript, GoLang, C#, Python & more
 - 🏗️ Frameworks: Laravel, Vue3, TailwindCSS, Express & Node, Jest, P5.js & more
